@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas622&theme=tokyonight" alt="Sublime's custom image"/>
+</p>
+
 <table>
   <thead>
     <tr>
