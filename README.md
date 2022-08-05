@@ -1,7 +1,11 @@
+<h2 align="center">
+  Hi There! I am Anas Rashid
+</h2>
+
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas622&theme=tokyonight" alt="Sublime's custom image"/>
 </p>
-
 
 
 <table>
@@ -23,5 +27,9 @@
   </tbody>
 </table>
 
-<a href="https://www.linkedin.com/in/iamanasrashid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/photosbyanas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/iamanasrashid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/photosbyanas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+
