@@ -1,5 +1,6 @@
 <h2 align="center">
-   I am Anas Rashid! خوش آمدیْد
+   خوش آمدیْد<br>
+!I am Anas Rashid
 </h2>
 
 
