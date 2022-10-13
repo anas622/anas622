@@ -39,6 +39,8 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas622&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 </details>
 
 
