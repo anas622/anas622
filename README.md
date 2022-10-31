@@ -3,6 +3,10 @@
 !I am Anas Rashid
 </h2>
 
+<p align="center">
+   <img src = "https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt = "Coding" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas622&theme=tokyonight" alt="Sublime's custom image"/>
